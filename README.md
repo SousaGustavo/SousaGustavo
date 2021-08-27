@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SousaGustavo
 - 👀 I'm interested in learning 
-- 🌱 I’m currently learning <HTML> C # / C ++
+- 🌱 I’m currently learning HTML, C # e C ++
 - 📫 How to reach me gustavosousact@gmai.com
 
 <!---
